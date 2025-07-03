@@ -72,8 +72,8 @@ If you like what I do and want to support my creativity, feel free to [buy me a 
 
 ## 📬 Contact
 
-- 📧 Email: your-email@example.com
-- 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 📧 Email: issacmoses19082005@gmail.com
+- 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/i%EF%BD%93%EF%BD%93-a-c-m-%E5%8F%A3%EF%BD%93%E3%83%A2%EF%BD%93-d-12837831b/)
 - 🐱 GitHub: [@issac-moses](https://github.com/Issac-Moses)
 
 ---
