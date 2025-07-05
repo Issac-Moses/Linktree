@@ -80,4 +80,4 @@ If you like what I do and want to support my creativity, feel free to [buy me a 
 
 ## 🏷️ License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available under the [MIT License](/LICENSE).
