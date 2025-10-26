@@ -14,6 +14,15 @@
 
 </div>
 
+## Screenshots
+![App Logo](./screenshots/1.png)
+![App Logo](./screenshots/2.png)
+![App Logo](./screenshots/3.png)
+![App Logo](./screenshots/4.png)
+![App Logo](./screenshots/5.png)
+![App Logo](./screenshots/6.png)
+
+
 ## 🔗 Live Preview
 
 🌐 [Visit My Website](https://issac-moses-linktree.netlify.app/)  
